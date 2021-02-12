@@ -8,7 +8,7 @@
 #ifndef annexb_reader_hpp
 #define annexb_reader_hpp
 
-#include <stdio.h>
+#include <iostream>
 
 class AnnexbReader {
 public:
